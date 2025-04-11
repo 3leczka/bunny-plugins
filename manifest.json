@@ -7,5 +7,5 @@
             "id": "711850927199617104"
         }
     ],
-    "main": "src/plugins/index.ts"
+    "main": "dist/index.js"
 }
